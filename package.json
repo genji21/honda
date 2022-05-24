@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "sass": "^1.52.1"
+
+  },
+  "scripts" : {
+    "node-sass": "node-sass --output-style compressed -o dist/css/ scss --recursive"
+}
+}
